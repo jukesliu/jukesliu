@@ -1,4 +1,4 @@
-# Hi, my name is Jukes❗
+# Hi, my name is Jukes!
 
 ## 😄 About me:
 - 👋 Pronouns: she/her/hers

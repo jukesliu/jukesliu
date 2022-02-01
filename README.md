@@ -8,13 +8,13 @@
 - 🖌️ Illustrator
 - 🏉 Rugger
 
-### ⏱ Here's what I'm working on:
+### 📇 Here's what I'm working on:
 - 🕵️‍♀️ Processing satellite image data to study [glacier surges](https://www.antarcticglaciers.org/glacier-processes/glacier-flow-2/surging-glaciers/)
 - 💻 Developing open-source tools for remote sensing of glacier change
 - 🎓 My PhD dissertation (expected graduation: Spring 2024)
 - 🔌 Building & programming scientific instruments
 
-### 📲 Contact me!
+### 📧 Contact me!
 Reach out anytime at [JukesLiu@u.boisestate.edu]
 
 <!--

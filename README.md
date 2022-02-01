@@ -8,11 +8,15 @@
 - 🖌️ Illustrator
 - 🏉 Rugger
 
-### 📇 Here's what I'm working on:
+### ⏲️ Here's what I'm working on:
 - 🕵️‍♀️ Processing satellite image data to study [glacier surges](https://www.antarcticglaciers.org/glacier-processes/glacier-flow-2/surging-glaciers/)
 - 💻 Developing open-source tools for remote sensing of glacier change
 - 🎓 My PhD dissertation (expected graduation: Spring 2024)
 - 🔌 Building & programming scientific instruments
+
+### ✍️ Here's what I've published:
+- 🏔️ [Estimating the longevity of glaciers in the Xinjiang region of the Tian Shan through observations of glacier area change since the Little Ice Age using high-resolution imagery](https://doi.org/10.1017/jog.2020.24)
+- 🧭 [Automated Detection of Marine Glacier Calving Fronts Using the 2-D Wavelet Transform Modulus Maxima Segmentation Method](https://doi.org/10.1109/TGRS.2021.3053235)
 
 ### 📧 Contact me!
 Reach out anytime at [JukesLiu@u.boisestate.edu]

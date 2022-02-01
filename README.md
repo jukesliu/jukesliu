@@ -26,9 +26,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=appveyor)
 
 ### 📧 Contact me!
-Reach out anytime at [JukesLiu@u.boisestate.edu]
+Reach out anytime at JukesLiu@u.boisestate.edu
 
 <!--
 **julialiu18/julialiu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

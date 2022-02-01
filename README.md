@@ -29,8 +29,7 @@
 - 🧭 Liu, J. et al. (2021). Automated Detection of Marine Glacier Calving Fronts Using the 2-D Wavelet Transform Modulus Maxima Segmentation Method. _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 11, pp. 9047-9056. doi: [10.1109/TGRS.2021.3053235.](https://doi.org/10.1109/TGRS.2021.3053235)
 - 🏔️ Liu, J. et al. (2020). Estimating the longevity of glaciers in the Xinjiang region of the Tian Shan through observations of glacier area change since the Little Ice Age using high-resolution imagery. _Journal of Glaciology_, 66(257), 471-484. doi: [10.1017/jog.2020.24](https://doi.org/10.1017/jog.2020.24)
 
-## 📧 Contact me!
-Reach out anytime at JukesLiu@u.boisestate.edu
+## 📧 Contact me anytime: JukesLiu@u.boisestate.edu
 
 <!--
 **julialiu18/julialiu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

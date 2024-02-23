@@ -1,7 +1,6 @@
 # Hi, my name is Jukes!
 
 ## 😄 About me:
-- 👋 Pronouns: they/she
 - 👩‍💻 Geophysics Ph.D. Candidate at Boise State University
 - 🧊 Glacier and ❄️ snow scientist
 - 🏂 Snowboarder and splitboarder

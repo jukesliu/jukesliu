@@ -23,7 +23,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## ✍️ Here's what I've published:
-- 🧊 __Liu, J.__, Enderlin, E., Bartholomaus, T., Terleth, Y., Mikesell, T.D., and Beaud, F. (accepted). Propagating speedups during the quiescent phase escalate to the 2020-2021 surge of Sít’ Kusá, Southeast Alaska. Submitted to _Journal of Glaciology_.
+- 🧊 __Liu, J.__, Enderlin, E., Bartholomaus, T., Terleth, Y., Mikesell, T.D., and Beaud, F. (2024). Propagating speedups during the quiescent phase escalate to the 2020-2021 surge of Sít’ Kusá, Southeast Alaska. _Journal of Glaciology_, 1-13.
 - 🛰️ Wright, C., Berkowitz, D., __Liu, J.__, Mock, L., Nisbet-Wilcox, B., Ross, K., Toth, T. and Webber, K.  	(2023). Evaluating mixing height estimations in the western United States using satellite 	observations. _J. Operational Meteor._, 11 (3), 24-32, [https://doi.org/10.15191/nwajom.2023.1103](https://doi.org/10.15191/nwajom.2023.1103)
 - 🧊 __Liu, J.__, Enderlin, E., Marshall, H. P., & Khalil, A. (2022). Synchronous retreat of southeast Greenland's peripheral glaciers. _Geophysical Research Letters_, 49, e2022GL097756. [https://doi.org/10.1029/2022GL097756](https://doi.org/10.1029/2022GL097756)
 - 🛰️ __Liu, J.__, Enderlin, E., Marshall, H. P., & Khalil, A. (2021). Automated Detection of Marine Glacier Calving Fronts Using the 2-D Wavelet Transform Modulus Maxima Segmentation Method. _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 11, pp. 9047-9056. doi: [10.1109/TGRS.2021.3053235.](https://doi.org/10.1109/TGRS.2021.3053235)

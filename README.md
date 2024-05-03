@@ -2,8 +2,8 @@
 
 ## 😄 About me:
 - 👩‍💻 Geophysics Ph.D. Candidate at Boise State University
-- 🧊 Glacier and ❄️ snow scientist
-- 🏂 Snowboarder and splitboarder
+- 🧊 Glaciology and ❄️ snow scientist
+- 🏂 Snowboarder/splitboarder
 - 🏉 Rugger
 
 ## 🕒 Here's what I'm working on:
@@ -29,7 +29,7 @@
 - 🛰️ __Liu, J.__, Enderlin, E., Marshall, H. P., & Khalil, A. (2021). Automated Detection of Marine Glacier Calving Fronts Using the 2-D Wavelet Transform Modulus Maxima Segmentation Method. _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 11, pp. 9047-9056. doi: [10.1109/TGRS.2021.3053235.](https://doi.org/10.1109/TGRS.2021.3053235)
 - 🏔️ __Liu, J.__, Lawson, D. E., Hawley, R. L., Chipman, J., Tracy, B., Shi, X., & Y. Chen. (2020). Estimating 	the longevity of glaciers in the Xinjiang region of the Tian Shan through remote sensing 	observations of glacier area change since the Little Ice Age using high-resolution imagery. _Journal of Glaciology_, 66(257), 471-484. doi: [10.1017/jog.2020.24](https://doi.org/10.1017/jog.2020.24)
 
-## 📧 Contact me anytime: JukesLiu@u.boisestate.edu
+## 📧 Contact me anytime: JukesLiu@u.boisestate.edu or jukes.liu@gmail.com
 
 <!--
 **julialiu18/julialiu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

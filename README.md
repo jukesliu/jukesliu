@@ -1,8 +1,8 @@
 # Hi, my name is Jukes!
 
 ## 😄 About me:
-- 👩‍💻 Geophysics Ph.D. Candidate at Boise State University
-- 🧊 Glaciology and ❄️ snow scientist
+- 👩‍💻 Postdoctoral researcher at Boise State University
+- 🧊 Glacier and ❄️ snow scientist
 - 🏂 Snowboarder/splitboarder
 - 🏉 Rugger
 

@@ -1,10 +1,8 @@
 # Hi, my name is Jukes!
 
 ## 😄 About me:
-- 👩‍💻 Postdoctoral researcher at Boise State University
+- 👩‍💻 Postdoctoral researcher and Graduate Faculty at Boise State University
 - 🧊 Glacier and ❄️ snow scientist
-- 🏂 Snowboarder/splitboarder
-- 🏉 Rugger
 
 ## 🕒 Here's what I'm working on:
 - 🕵️‍♀️ Processing satellite data to study [glacier surges](https://www.antarcticglaciers.org/glacier-processes/glacier-flow-2/surging-glaciers/)
